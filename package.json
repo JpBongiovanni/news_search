@@ -1,0 +1,25 @@
+{
+  "name": "propaganda_web_scrapper",
+  "version": "1.0.0",
+  "description": "Web scrapper that finds and presents most popular headline words in news media",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JpBongiovanni/news_search.git"
+  },
+  "author": "Jason Bongiovanni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JpBongiovanni/news_search/issues"
+  },
+  "homepage": "https://github.com/JpBongiovanni/news_search#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
