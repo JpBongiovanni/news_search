@@ -185,6 +185,7 @@ newspapers.forEach(newspaper => {
                         titleWords[i] !== "on" &&
                         titleWords[i] !== "On" &&
                         titleWords[i] !== "Us" &&
+                        titleWords[i] !== "US" &&
                         titleWords[i] !== "My" &&
                         titleWords[i] !== "my" &&
                         titleWords[i] !== "So" &&
