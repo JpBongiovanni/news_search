@@ -339,6 +339,11 @@ newspapers.forEach(newspaper => {
                         titleWords[i] !== "people" &&
                         titleWords[i] !== "than" &&
                         titleWords[i] !== "Most" &&
+                        titleWords[i] !== "fydubv" &&
+                        titleWords[i] !== "were" &&
+                        titleWords[i] !== "Aug" &&
+                        titleWords[i] !== "men" &&
+                        titleWords[i] !== "MSNBC" &&
                         titleWords[i] !== "most" &&
                         titleWords[i] !== "over" &&
                         titleWords[i] !== "Terms of Use" &&
@@ -348,6 +353,52 @@ newspapers.forEach(newspaper => {
                         titleWords[i] !== "Privacy" &&
                         titleWords[i] !== "CBS" &&
                         titleWords[i] !== "Podcasts" &&
+                        titleWords[i] !== "into" &&
+                        titleWords[i] !== "Into" &&
+                        titleWords[i] !== "who" &&
+                        titleWords[i] !== "Day" &&
+                        titleWords[i] !== "day" &&
+                        titleWords[i] !== "Books" &&
+                        titleWords[i] !== "Newsletters" &&
+                        titleWords[i] !== "American" &&
+                        titleWords[i] !== "first" &&
+                        titleWords[i] !== "Business" &&
+                        titleWords[i] !== "Entertainment" &&
+                        titleWords[i] !== "Will" &&
+                        titleWords[i] !== "Reports" &&
+                        titleWords[i] !== "make" &&
+                        titleWords[i] !== "One" &&
+                        titleWords[i] !== "Help" &&
+                        titleWords[i] !== "found" &&
+                        titleWords[i] !== "CNN" &&
+                        titleWords[i] !== "Advertise" &&
+                        titleWords[i] !== "Since" &&
+                        titleWords[i] !== "Jan" &&
+                        titleWords[i] !== "Feb" &&
+                        titleWords[i] !== "Mar" &&
+                        titleWords[i] !== "Apr" &&
+                        titleWords[i] !== "May" &&
+                        titleWords[i] !== "Jun" &&
+                        titleWords[i] !== "Jul" &&
+                        titleWords[i] !== "Aug" &&
+                        titleWords[i] !== "Sep" &&
+                        titleWords[i] !== "Oct" &&
+                        titleWords[i] !== "Nov" &&
+                        titleWords[i] !== "Dec" &&
+                        titleWords[i] !== "Travel" &&
+                        titleWords[i] !== "them" &&
+                        titleWords[i] !== "some" &&
+                        titleWords[i] !== "Should" &&
+                        titleWords[i] !== "may" &&
+                        titleWords[i] !== "Use" &&
+                        titleWords[i] !== "time" &&
+                        titleWords[i] !== "just" &&
+                        titleWords[i] !== "view" &&
+                        titleWords[i] !== "Would" &&
+                        titleWords[i] !== "life" &&
+                        titleWords[i] !== "Work" &&
+                        titleWords[i] !== "Coupons" &&
+                        titleWords[i] !== "Service" &&
                         titleWords[i] !== "From"
                     )
                     wordCount.push(titleWords[i])
