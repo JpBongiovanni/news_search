@@ -198,6 +198,16 @@ newspapers.forEach(newspaper => {
                         titleWords[i] !== "Are" &&
                         titleWords[i] !== "for" &&
                         titleWords[i] !== "For" &&
+                        titleWords[i] !== "Jun" &&
+                        titleWords[i] !== "House" &&
+                        titleWords[i] !== "all" &&
+                        titleWords[i] !== "Contact" &&
+                        titleWords[i] !== "Donald" &&
+                        titleWords[i] !== "best" &&
+                        titleWords[i] !== "one" &&
+                        titleWords[i] !== "Daily" &&
+                        titleWords[i] !== "say" &&
+                        titleWords[i] !== "York" &&
                         titleWords[i] !== "He" &&
                         titleWords[i] !== "he" &&
                         titleWords[i] !== "El" &&
