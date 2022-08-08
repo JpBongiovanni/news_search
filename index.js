@@ -174,6 +174,8 @@ newspapers.forEach(newspaper => {
                         titleWords[i] !== "April" &&
                         titleWords[i] !== "May" &&
                         titleWords[i] !== "June" &&
+                        titleWords[i] !== "Video" &&
+                        titleWords[i] !== "video" &&
                         titleWords[i] !== "July" &&
                         titleWords[i] !== "August" &&
                         titleWords[i] !== "September" &&
