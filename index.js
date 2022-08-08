@@ -163,6 +163,8 @@ newspapers.forEach(newspaper => {
                         titleWords[i] !== "an" && 
                         titleWords[i] !== "as" &&
                         titleWords[i] !== "As" &&
+                        titleWords[i] !== "World" &&
+                        titleWords[i] !== "world" &&
                         titleWords[i] !== "All" &&
                         titleWords[i] !== "Years" &&
                         titleWords[i] !== "Alex" &&
