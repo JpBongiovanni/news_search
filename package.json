@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Web scrapper that finds and presents most popular headline words in news media",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "nodemon index.js"
   },
