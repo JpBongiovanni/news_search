@@ -407,6 +407,11 @@ newspapers.forEach(newspaper => {
                         titleWords[i] !== "Work" &&
                         titleWords[i] !== "Coupons" &&
                         titleWords[i] !== "Service" &&
+                        titleWords[i] !== "or" &&
+                        titleWords[i] !== "Or" &&
+                        titleWords[i] !== "she" &&
+                        titleWords[i] !== "She" &&
+                        titleWords[i] !== "Shows" &&
                         titleWords[i] !== "From"
                     )
                     wordCount.push(titleWords[i])
