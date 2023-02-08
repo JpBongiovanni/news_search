@@ -412,6 +412,14 @@ newspapers.forEach(newspaper => {
                         titleWords[i] !== "Joe" &&
                         titleWords[i] !== "she" &&
                         titleWords[i] !== "She" &&
+                        titleWords[i] !== "hWKgYV" &&
+                        titleWords[i] !== "Sports" &&
+                        titleWords[i] !== "George" &&
+                        titleWords[i] !== "James" &&
+                        titleWords[i] !== "Michael" &&
+                        titleWords[i] !== "Culture" &&
+                        titleWords[i] !== "Food" &&
+                        titleWords[i] !== "Health" &&
                         titleWords[i] !== "Shows" &&
                         titleWords[i] !== "From"
                     )
